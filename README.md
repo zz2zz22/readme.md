@@ -1,11 +1,11 @@
-<h1 align="center">About me 😁</h1>
+## 👋 Hi, I'm Anh Vu 👋
 - I'm a C# .NET Developer, I'm currently work as an software engineer in Tech-link Silicones Vietnam.
 
 - 👨‍💻 All of my projects are available at https://github.com/zz2zz22?tab=repositories
 
-- 📫 How to reach me K.Rajkumarmca@gmail.com
+- 📫 How to reach me dragonslayer31051999@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+### Find me all around the web:
 <a href="https://www.facebook.com/leanhvu322/" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/facebook-original.svg?size=50&color=currentColor" alt="facebook"/> </a> 
 
 <h3 align="left">My strengths are:</h3>
