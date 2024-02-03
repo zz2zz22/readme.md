@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Anh Vu 👋
-- I'm a C# .NET Developer, I'm currently work as an software engineer in Tech-link Silicones Vietnam.
+- I'm a C# .NET Developer, I'm currently work as an software engineer in Vietnam.
 
 - 👨‍💻 All of my projects are available at https://github.com/zz2zz22?tab=repositories
 
