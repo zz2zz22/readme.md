@@ -8,7 +8,6 @@
 ### Find me at:
 <p align="left">
 <a href="https://www.instagram.com/drasla3105/" target="blank"><img align="center" src="https://github.com/zz2zz22/Anh-Vu/blob/main/Icons/insta.png" alt="instagram" height="40" /></a>
-<a href="https://discord.gg/2GDgVsQZae" target="blank"><img align="center" src="https://github.com/zz2zz22/Anh-Vu/blob/main/Icons/discord.png" alt="discord" height="40" /></a>
 </p>
 
 ### My strengths are:
